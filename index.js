@@ -185,7 +185,7 @@ app.post("/contact", async (req,res) => {
         <td align="center" style="background:#D4AF37;padding:25px;">
 
             <p style="margin:0;color:#ffffff;font-size:18px;font-family:Georgia,serif;">
-                Guruji Catering Administration
+                Manik Catering Administration
             </p>
 
             <p style="margin:10px 0 0;color:#fff;font-size:14px;">
@@ -224,7 +224,7 @@ app.post("/contact", async (req,res) => {
     <tr>
         <td align="center" style="background:#ffffff;padding:35px 20px;border-bottom:4px solid #d4af37;">
             <h1 style="margin:0;color:#b8860b;font-size:34px;font-family:Georgia,serif;">
-                Guruji Catering
+                Manik Catering
             </h1>
 
             <p style="margin:10px 0 0;color:#555;font-size:16px;letter-spacing:1px;">
@@ -242,7 +242,7 @@ app.post("/contact", async (req,res) => {
             </h2>
 
             <p style="color:#555;font-size:16px;line-height:28px;">
-                Thank you for reaching out to <strong style="color:#b8860b;">Guruji Catering</strong>.
+                Thank you for reaching out to <strong style="color:#b8860b;">Manik Catering</strong>.
                 We have successfully received your catering enquiry.
             </p>
 
@@ -372,7 +372,7 @@ app.post("/contact", async (req,res) => {
         <td align="center" style="background:#b8860b;padding:25px;color:#fff;">
 
             <h3 style="margin:0;font-family:Georgia,serif;">
-                Guruji Catering
+                Manik Catering
             </h3>
 
             <p style="margin:10px 0;font-size:14px;">
@@ -381,7 +381,7 @@ app.post("/contact", async (req,res) => {
 
             <p style="margin:0;font-size:13px;">
                 📞 +91 7876167162 &nbsp; | &nbsp;
-                ✉ contact@gurujicatering.com
+                ✉ contact@Manikcatering.com
             </p>
 
         </td>
