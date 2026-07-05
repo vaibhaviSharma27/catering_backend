@@ -1,7 +1,7 @@
 import express from "express";
 import cors from "cors";
 import nodemailer from "nodemailer";
-import "dotenv/config";
+// import "dotenv/config";
 
 
 const app = express();
@@ -426,4 +426,5 @@ res.status(200).json({message:"Task accomplished!!"});
     }
 });
 
-app.listen(process.env.PORT, ()=> console.log(`http://localhost:${process.env.PORT}/`));
+// app.listen(process.env.PORT, ()=> console.log(`http://localhost:${process.env.PORT}/`));
+export default app;
