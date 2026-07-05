@@ -7,7 +7,7 @@ import "dotenv/config";
 const app = express();
 app.use(express.json());
 app.use(cors({
-    origin:"catering-frontend-flax.vercel.app",
+    origin:"https://manikcaterers.vercel.app/",
     credentials: true
 }));
 
