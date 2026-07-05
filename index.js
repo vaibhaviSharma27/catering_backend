@@ -7,7 +7,7 @@ import "dotenv/config";
 const app = express();
 app.use(express.json());
 app.use(cors({
-    origin:"https://manikcaterers.vercel.app/",
+    origin:"https://manikcaterers.vercel.app",
     credentials: true
 }));
 
